@@ -1,0 +1,34 @@
+ #footer-container{
+    border: 1px solid green;
+    background-color: #1D2A4C ;
+    width: 100%;
+    height: 800px;
+ }
+
+ #footer-img-container{
+    width: 220px;
+    margin: 150px auto 70PX;
+ }
+
+ #footer-image{
+    width: 100%;
+ }
+
+ #footer-text {
+    color: white;
+    font-size: 2rem;
+    text-align: center;
+    font-weight: 700;
+
+ }
+
+ #footer-text-color {
+    color: #2677BC;
+
+ }
+
+ #footer-social-icons {
+    filter: invert(99%) sepia(100%) saturate(0%) hue-rotate(111deg) brightness(109%) contrast(101%);
+    width: 250px;
+    margin: 50px auto;
+ }

@@ -1,0 +1,28 @@
+#home-care-container {
+    border: 1px solid aqua;
+    height: 450px;
+    width: 100%;
+
+}
+
+#home-care-img-container {
+    margin: 50px auto;
+    width: 350px;
+    border:1px solid yellow;
+}
+
+#home-care-copy{
+    font-weight: 700;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+#home-care-img {
+    width: 100%;
+    
+}
+
+
+#home-care-span-color {
+    color: #2677BC ;
+}

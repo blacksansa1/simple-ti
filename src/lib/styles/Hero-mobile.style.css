@@ -1,0 +1,32 @@
+#hero-mobile-container {
+    border: 1px solid red;
+    height:640px;
+}
+
+#hero-mobile-illustration-container {
+    border: 1px solid blue;
+    width:250px;
+    margin: 30px auto;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#hero-mobile-title {
+    font-size: 1.6rem;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+}
+
+#line {
+    background-color: #2677BC;
+    width: 50%;
+    height: 3px;
+    align-self: center;
+    margin-bottom: 50px;
+}
+
+#mobile-illustration {
+    margin-bottom: 100px;
+}

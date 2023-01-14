@@ -1,0 +1,35 @@
+#call-to-action-container {
+    border: 1px solid blue;
+    width: 100%;
+
+}
+
+#call-to-action-img-container{
+  width: 350px;
+  margin: 50px auto;
+    
+}
+
+#call-to-action-button-container{
+    width: 300px;
+    margin: 50px auto;
+
+}
+
+#call-to-action-img{
+    
+    border: 1px solid yellow;
+    width: 100%;
+    
+
+}
+
+#call-to-action-button {
+    padding: 10px;
+    width: 100%;
+    background-color: #1D2A4C;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    
+}

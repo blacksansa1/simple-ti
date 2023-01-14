@@ -1,2 +1,13 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+    import CallToAction from "$lib/components/call-to-action.svelte";
+    import Footer from "$lib/components/footer.svelte";
+    import HeroMobile from "$lib/components/Hero-mobile.svelte";
+    import HomeCare from "$lib/components/home-care.svelte";
+    import ServicesCard from "$lib/components/services-card.svelte";
+</script>
+
+<HeroMobile />
+<ServicesCard />
+<HomeCare />
+<CallToAction />
+<Footer />
