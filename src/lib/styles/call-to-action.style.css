@@ -1,11 +1,12 @@
 #call-to-action-container {
-    border: 1px solid blue;
     width: 100%;
+    display: flex;
+    align-items: center;
 
 }
 
 #call-to-action-img-container{
-  width: 350px;
+  width: 200;
   margin: 50px auto;
     
 }
@@ -18,11 +19,19 @@
 
 #call-to-action-img{
     
-    border: 1px solid yellow;
     width: 100%;
     
 
 }
+
+#call-to-action-img-text{
+    font-size: 1.3rem;
+    font-weight: 600;
+    
+    padding: 10px;
+}
+
+
 
 #call-to-action-button {
     padding: 10px;
@@ -31,5 +40,6 @@
     color: white;
     font-family: 'Raleway', sans-serif;
     font-weight: 600;
+    margin-bottom: 100px;
     
 }

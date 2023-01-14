@@ -5,9 +5,8 @@
     import HomeCare from "$lib/components/home-care.svelte";
     import ServicesCard from "$lib/components/services-card.svelte";
 </script>
-
-<HeroMobile />
+<Footer />
 <ServicesCard />
 <HomeCare />
 <CallToAction />
-<Footer />
+

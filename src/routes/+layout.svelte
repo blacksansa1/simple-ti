@@ -7,7 +7,7 @@
 </style>
 
 <header>
-    <Navbar />
+    
 </header>
 
 <main>

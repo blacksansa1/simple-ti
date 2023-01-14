@@ -1,10 +1,8 @@
 #hero-mobile-container {
-    border: 1px solid red;
     height:640px;
 }
 
 #hero-mobile-illustration-container {
-    border: 1px solid blue;
     width:250px;
     margin: 30px auto;
     display: flex;

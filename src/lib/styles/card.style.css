@@ -8,16 +8,11 @@
     padding: 20px;
     margin-top: 40px;
     margin-left: 50px;
+    text-align: center;
 
 }
 
-#line2{
-    width: 50%;
-    margin: 0 auto ;
-    height: 3px;
-    background-color: #1D2A4C;
 
-}
 
 #card-image {
 width: 120px;

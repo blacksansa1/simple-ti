@@ -1,12 +1,26 @@
 #services-card-container{
  
-    border: 1px solid green;
     height: 450px;
-    margin: 2% auto;
-    text-align: center;
+    margin: 20% auto;
+    
+    
    
 }
+
+#line2{
+    width: 50%;
+    margin-left: 50px;
+    margin-top: 10px;
+    height: 4px;
+    background-color: #1D2A4C;
+    border-radius: 100px;
+
+}
+
 #services-card-title{
-    font-size: 1.6rem;
+    font-size: 2rem;
+    margin-left: 50px;
+    font-weight: 700;
+    color: #1D2A4C;
 }
 
